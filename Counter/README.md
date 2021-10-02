@@ -1,3 +1,2 @@
-# Counter
-## Link : 
+# Counter Link : 
 [Counter](http://devteddycounter.netlify.app)
